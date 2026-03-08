@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta property="og:title" content="👑 DONO DO BOT">
+    <meta property="og:description" content="Contate o dono diretamente pelo WhatsApp!">
+    <meta property="og:image" content="https://seusite.com/dono.jpg"> <!-- Coloque aqui a URL da imagem do seu bot -->
+    <meta property="og:url" content="https://wa.me/258850714233"> <!-- Seu link direto do WhatsApp -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dono do Bot</title>
+</head>
+<body>
+    <p>Abra o WhatsApp para contatar!</p>
+</body>
+</html>
